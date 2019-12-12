@@ -1,0 +1,13 @@
+test_normal_001 (Homework.homework_0321.test_case.TestAdd)
+正确用户名和正确密码，get请求 ... ok
+test_normal_002 (Homework.homework_0321.test_case.TestAdd)
+正确用户名和密码，post请求 ... ok
+test_abnormal_001 (Homework.homework_0321.test_case.TestAdd)
+空用户名登录 ... ok
+test_abnormal_002 (Homework.homework_0321.test_case.TestAdd)
+空密码登录 ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.066s
+
+OK

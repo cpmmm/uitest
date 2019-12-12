@@ -1,0 +1,20 @@
+this is a debug msg
+this is a info msg
+this is a warning msg
+this is a error msg
+this is a critical msg
+2019-11-10 18:25:04,694-DEBUG-learn_log.py-py15-日志信息:this is a debug msg
+2019-11-10 18:25:04,717-INFO-learn_log.py-py15-日志信息:this is a info msg
+2019-11-10 18:25:04,717-WARNING-learn_log.py-py15-日志信息:this is a warning msg
+2019-11-10 18:25:04,718-ERROR-learn_log.py-py15-日志信息:this is a error msg
+2019-11-10 18:25:04,718-CRITICAL-learn_log.py-py15-日志信息:this is a critical msg
+2019-11-10 18:26:14,966-DEBUG-learn_log.py-py15-鏃ュ織淇℃伅:this is a debug msg
+2019-11-10 18:26:14,966-INFO-learn_log.py-py15-鏃ュ織淇℃伅:this is a info msg
+2019-11-10 18:26:14,966-WARNING-learn_log.py-py15-鏃ュ織淇℃伅:this is a warning msg
+2019-11-10 18:26:14,967-ERROR-learn_log.py-py15-鏃ュ織淇℃伅:this is a error msg
+2019-11-10 18:26:14,967-CRITICAL-learn_log.py-py15-鏃ュ織淇℃伅:this is a critical msg
+2019-11-10 18:34:00,867-DEBUG-learn_log.py-py15-69-鏃ュ織淇℃伅:this is a debug msg
+2019-11-10 18:34:00,867-INFO-learn_log.py-py15-70-鏃ュ織淇℃伅:this is a info msg
+2019-11-10 18:34:00,867-WARNING-learn_log.py-py15-71-鏃ュ織淇℃伅:this is a warning msg
+2019-11-10 18:34:00,868-ERROR-learn_log.py-py15-72-鏃ュ織淇℃伅:this is a error msg
+2019-11-10 18:34:00,868-CRITICAL-learn_log.py-py15-73-鏃ュ織淇℃伅:this is a critical msg

@@ -1,0 +1,36 @@
+# -*- coding: utf-8 -*-
+'''
+@time: 2019/11/29 0029 10:29
+@author: chen
+@contact: 1171954100@qq.com
+@file: contants.py
+@desc:
+        ┏┓　　　┏┓+ +
+　　　┏┛┻━━━┛┻┓ + +
+　　　┃　　　　　　　┃ 　
+　　　┃　　　━　　　┃ ++ + + +
+　　 ████━████ ┃+
+　　　┃　　　　　　　┃ +
+　　　┃　　　┻　　　┃
+　　　┃　　　　　　　┃ + +
+　　　┗━┓　　　┏━┛
+　　　　　┃　　　┃　　　　　　　　　　　
+　　　　　┃　　　┃ + + + +
+　　　　　┃　　　┃　　　　Codes are far away from bugs with the animal protecting　　　
+　　　　　┃　　　┃ + 　　　　神兽保佑,代码无bug　　
+　　　　　┃　　　┃
+　　　　　┃　　　┃　　+　　　　　　　　　
+　　　　　┃　 　　┗━━━┓ + +
+　　　　　┃ 　　　　　　　┣┓
+　　　　　┃ 　　　　　　　┏┛
+　　　　　┗┓┓┏━┳┓┏┛ + + + +
+　　　　　　┃┫┫　┃┫┫
+　　　　　　┗┻┛　┗┻┛+ + + +
+
+'''
+import os
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  #class_0413
+print(base_dir)
+
+case_file=os.path.join(base_dir,'data','TestLogin.xlsx')
+print(case_file)
