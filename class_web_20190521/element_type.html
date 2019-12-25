@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>python15-UI自动化第一节课</title>
+</head>
+<body>
+    <!--标题元素-->
+    <h1 style="color:red">欢迎学习自动化</h1>
+    <!--form表单-->
+    <form>
+        <!--链接元素-->
+        <a href="http://www.baidu.com">去搜索</a>
+        <br>
+
+        <!--输入框  不可用状态disabled  readonly只读-->
+        <input type="text" readonly/>
+        <!--按钮元素  不可用状态disabled-->
+        <input type="button" value="搜索" disabled>
+        <br>
+
+        <!--单选框  不加name="sex"的话就可以多选  默认选中状态是checked-->
+        <input type="radio" name="sex" checked/>女
+        <input type="radio" name="sex"/>男
+        <input type="radio" name="sex"/>保密
+        <br>
+
+        <!--多选框 默认选中状态是checked-->
+        你喜欢的动漫是:<input type="checkbox" checked/>火影忍者
+        <input type="checkbox"/>灌篮高手
+        <input type="checkbox"/>七龙珠
+        <br>
+
+        <!--文件上传-->
+        <input type="file"/>
+    </form>
+    <br>
+
+    <!--iframe 内联框架-->
+    <iframe src="http://www.baidu.com"></iframe>
+    <br>
+
+    <!--img 图片元素-->
+    <img src="https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo_top-e3b63a0b1b.png">
+    <br>
+
+    <!--下拉列表-->
+    你最近在玩的球类运动：
+    <select id="select">
+        <option>篮球</option>
+        <option>足球</option>
+        <option>乒乓球</option>
+        <option>羽毛球</option>
+        <option>网球</option>
+    </select>
+</body>
+</html>
