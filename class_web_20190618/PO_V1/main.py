@@ -39,12 +39,14 @@
 
 
 import sys
+sys.path.append('./')
+# print(sys.path)
+
 import unittest
 import HTMLTestRunnerNew
 from class_web_20190618.PO_V1.Common import dir_config
 
-sys.path.append('./')
-# print(sys.path)
+
 
 discover = unittest.defaultTestLoader.discover(dir_config.testcases_dir,"test_login.py")
 
