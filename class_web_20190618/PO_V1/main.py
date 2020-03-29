@@ -40,7 +40,7 @@
 
 import sys
 sys.path.append('./')
-# print(sys.path)
+print(sys.path)
 
 import unittest
 import HTMLTestRunnerNew
